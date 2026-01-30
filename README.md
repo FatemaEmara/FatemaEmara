@@ -9,26 +9,17 @@
 :hammer_and_wrench: **Currently undergoing a 9-month ITI training program**  
 
 ---
-
-## 📫 Contact Me
-- **Email:** fatemaemara133@gmail.com  
-- **Phone:** 01007470314  
-- **LinkedIn:** [linkedin.com/in/fatema-emara-50ab101b6](https://www.linkedin.com/in/fatema-emara-50ab101b6/)  
-- **GitHub:** [github.com/FatemaEmara](https://github.com/FatemaEmara)  
-- **Location:** Nasr City, Cairo, Egypt  
-
----
-
-## 🎓 Education
-- Graduated from the **Faculty of Computer Science, El Shorouk Academy**
+**Languages & Frameworks:**  
+![Kotlin](https://img.shields.io/badge/Kotlin-FF5722?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
 ---
-
 ## 🏆 Courses & Training
 - **Mobile App Developer** – Digital Egypt Pioneers Initiative  
 - **Android Development** – Orange Digital Center  
-- **ITI 9-Month Trainee** – Currently in progress  
-
 ---
 
 ## 🌟 Interests
