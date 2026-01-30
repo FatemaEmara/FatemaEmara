@@ -3,7 +3,9 @@
 ### Android Software Engineer | CS Graduate | Currently an ITI 9-Month Trainee
 
 :video_game: I am a **Computer Science graduate**  
+
 📱 Passionate about **mobile application development**
+
 :hammer_and_wrench: **Currently undergoing a 9-month ITI training program**  
 
 ---
